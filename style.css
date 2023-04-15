@@ -1,0 +1,7 @@
+#banner {
+    background-image: url("images/football.jpg"), linear-gradient(to bottom, rgb(2, 2, 2), rgb(95, 95, 95));
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
